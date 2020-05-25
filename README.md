@@ -5,7 +5,7 @@ Basic tooling and creating UI in javascript like jQueryUi or react, its more lik
   3. function-based
   4. static
   5. no renderer
-  6. for ui beginners and enthusiasts</strong
+  6. for ui beginners and enthusiasts</strong>
   
 this is actually basic init functions now. done in a day.
 
