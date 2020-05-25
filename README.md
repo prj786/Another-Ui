@@ -17,7 +17,7 @@ this is actually basic init functions now. done in a day.
     2) createGrid - function
     3) createFlexBox - function
     4) betterUserInputs
-    5) updated - hteml management
+    5) updated - html management
   
   further aims
   
