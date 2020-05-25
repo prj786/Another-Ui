@@ -1,11 +1,11 @@
 Basic tooling and creating UI in javascript like jQueryUi or react, its more like Elm. functional programming
 
-  1 no virtual-dom
-  2 fully customizable
-  3 function-based
-  4 static
-  5 no renderer
-  6 for ui beginners and enthusiasts
+  <strong>1. no virtual-dom
+  2. fully customizable
+  3. function-based
+  4. static
+  5. no renderer
+  6. for ui beginners and enthusiasts</strong
   
 this is actually basic init functions now. done in a day.
 
