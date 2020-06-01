@@ -131,7 +131,9 @@ export class Tools {
         if (id) {
             this.addId(element, id);
         }
-        element.innerHTML = context;
+        if (context) {
+            element.innerHTML = context;
+        }
         element.contentEditable = 'false';
         element.removeAttribute('contentEditable');
         for (let key in style) {
